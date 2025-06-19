@@ -91,6 +91,9 @@ A: For some methods, using proxies is recommended to hide your IP and avoid bein
 **Q3: What is the difference between Layer7 and Layer4?**  
 A: Layer7 targets the application layer (e.g., HTTP/HTTPS), while Layer4 attacks the transport layer (e.g., TCP, UDP).
 
+**Q4: Why is the code obfuscated?**  
+A: Developing a powerful and effective DDoS tool takes a lot of time and effort. If someone could simply steal it with a click, all the work would be pointless. The DDoS tool is provided for free but protected.
+
 ---
 
 ## Credits
